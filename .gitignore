@@ -1,0 +1,7 @@
+.metals/
+.vscode/
+credit-card/target/
+credit-card/project/
+credit-card/.metals/
+credit-card/.bloop/
+credit-card/.bsp/
